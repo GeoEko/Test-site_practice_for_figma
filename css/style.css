@@ -1,0 +1,36 @@
+:root {
+  --dark-blue-color: #34547a;
+  --dark-color: #000000;
+  --grey-color: #727272;
+  --white-color: #ffffff;
+  --bacground-color: #f9f9f9;
+  --bacground-gray-color: #eeeff1;
+  --font-family: "Roboto", sans-serif;
+  --second-family: "Revalia", sans-serif;
+}
+html {
+  box-sizing: border-box;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  padding: 0;
+  margin: 0;
+}
+body {
+  margin: 0;
+}
+/* Header-First-Screen */
